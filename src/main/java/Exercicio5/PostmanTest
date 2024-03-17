@@ -1,0 +1,31 @@
+Documento criado para auxiliar no teste do exercicio 5.
+
+Postman URL GET:
+http://localhost:8080/pessoa
+
+Postman URL POST:
+http://localhost:8080/pessoa
+Json para ser adicionado no Body para facilitar testes, e recomendações de pessoas para serem chamadas pra sua festa:
+
+[
+  {
+    "nome": "Neymar Junior ",
+    "dataNascimento": "1992/05/02"
+  },
+  {
+    "nome": "Leonardo da Vinci",
+    "dataNascimento": "1452/15/04"
+  },
+  {
+    "nome": "Isaac Newton",
+    "dataNascimento": "1643/04/01"
+  },
+  {
+    "nome": "Silvio Santos",
+    "dataNascimento": "1930/12/12"
+  },
+   {
+    "nome": "Antonio Rafael Saito",
+    "dataNascimento": "2001/30/05"
+  }
+]
